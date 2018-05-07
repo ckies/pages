@@ -61,6 +61,8 @@ You may object to the use of Performance Cookies at any time by customizing your
 
 Marketing Cookies are set by external advertising companies (Third Party Cookies) and will be used to gather information about the user’s visited websites in order to create targeted advertising to the user.
 
+[[ cookies type="marketing" ]]
+
 You may object to the use of Marketing Cookies at any time by customizing your Cookie Settings accordingly.
 
 ## Administration and deletion of cookies
