@@ -12,7 +12,7 @@ Through the stored and sent back information the respective website detects that
 
 Cookies that are not strictly necessary to provide the services on our website (for more information about strictly necessary Cookies, see Section 3.a. below) will only be used after you have given your consent to their use. As soon as you use our website actively (by continuing to surf on our website after the Cookie Banner has been displayed to you), you give your consent to the use of Cookies.
 
-You may customize your Cookie Settings any time by activating or deactivating the different Cookie category. For more information on how to generally deactivate Cookies on your browser (including Strictly Necessary Cookies), see Section 4 below.
+You may customize your [Cookie Settings](#settings) any time by activating or deactivating the different Cookie category. For more information on how to generally deactivate Cookies on your browser (including Strictly Necessary Cookies), see Section 4 below.
 
 ## Types of Cookies
 
@@ -43,7 +43,7 @@ Our website uses the following Functional Cookies:
 
 [[ cookies type="functional" ]]
 
-You may object to the use of Functional Cookies at any time by customizing your Cookie Settings accordingly.
+You may object to the use of Functional Cookies at any time by customizing your [Cookie Settings](#settings) accordingly.
 
 ### Performance Cookies
 
@@ -55,7 +55,7 @@ Our website uses the following Performance Cookies:
 
 [[ cookies type="performance" ]]
 
-You may object to the use of Performance Cookies at any time by customizing your Cookie Settings accordingly.
+You may object to the use of Performance Cookies at any time by customizing your [Cookie Settings](#settings) accordingly.
 
 ### Marketing Cookies / Third Party Cookies
 
@@ -63,7 +63,7 @@ Marketing Cookies are set by external advertising companies (Third Party Cookies
 
 [[ cookies type="marketing" ]]
 
-You may object to the use of Marketing Cookies at any time by customizing your Cookie Settings accordingly.
+You may object to the use of Marketing Cookies at any time by customizing your [Cookie Settings](#settings) accordingly.
 
 ## Administration and deletion of cookies
 
