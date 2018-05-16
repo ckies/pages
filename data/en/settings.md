@@ -2,8 +2,6 @@
 
 ## Strictly Necessary Cookies
 
-[[ toggle for="necessary" ]]
-
 Strictly Necessary Cookies secure certain functions, without which you would not be able to use our website as intended. These Cookies are First Party Cookie, as they are only used and set by us. The use of Strictly Necessary Cookies on our website is possible without your consent. Therefore, Strictly Necessary Cookies cannot be separately activated or deactivated. You will find an overview of the Strictly Necessary Cookies used on our website in our [Cookie Policy](#policy).
 
 ## Functional Cookies
